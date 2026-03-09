@@ -87,7 +87,7 @@ pip install -r requirements.txt
 ## ▶️ Run the Chatbot
 
 ```
-python app.py
+streamlit run app.py
 ```
 
 Example:
